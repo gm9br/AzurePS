@@ -28,10 +28,6 @@
     Mandatory: Delete Source Profile (yes or no). Default: no.
 
 #>
-#$Source='C:\Users'
-#$SourceUserFile='c:\users\administrator\desktop\backup.txt'
-#$Destination='\\gm9-cus-db03\backup'
-#$DeleteSourceProfile="yes"
 
 #Get parameters required for this script to run
 Param
